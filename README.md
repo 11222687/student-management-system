@@ -1,4 +1,4 @@
-student_management_system.png
+![Project Screenshot](student_management_system.png)
 # student-management-system
 Student Management System Database Project using SQL and MySQL Workbench.
 
